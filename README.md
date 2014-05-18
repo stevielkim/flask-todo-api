@@ -1,6 +1,6 @@
 ##Small todo API project using Flask and MongoDB
 
-####app_mongo.py is a very simple API for a todo list in Flask and MongoDB.
+####mongo_todo_app.py is a very simple API for a todo list in Flask and MongoDB.
 
 #####mongo_todo_app.py inspired by Miguel Grinbergs tutorial at http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 
